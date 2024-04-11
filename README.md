@@ -1,0 +1,1 @@
+Arquivo direcionado a alguns projetos de estudo da linguagem C++. Os projetos realizados são relacionados a fórmulas matemáticas que utilizei durante meu ensino médio, como a fórmula da relação de Euler, Bhaskara e Lei de Gauss; contendo também projetos de tarefas solicitadas pelos professores.
